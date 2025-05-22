@@ -7,4 +7,4 @@ Aqui temos a captura de tela do projeto:
 
 ![screenshot](screensshot.png)
 
-https://github.com/AsmrProg-YT
+Créditos: [ASMR Prog]https://github.com/AsmrProg-YT
