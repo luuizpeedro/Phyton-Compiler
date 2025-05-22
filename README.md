@@ -1,15 +1,8 @@
-# Day #79
+# Simple Python Compiler
 
-### Simple Python Compiler
-Want to build your own Python Compiler with a professional code editor? In this tutorial, we’ll create a Simple Python Compiler using CodeMirror (Python mode) for syntax highlighting, indentation, and smooth code editing! 🚀
-
-🔥 What You’ll Learn:
-✅ Integrating CodeMirror (Python Mode) – Set up a feature-rich Python editor with syntax highlighting. ✨
-✅ Executing Python Code in Real-Time – Handle user input and display instant output dynamically. 🔄
- Building a User-Friendly UI – Create a responsive and interactive interface for a seamless experience. 🖥️
-✅ Optimizing Performance & Security – Ensure fast and secure Python execution in the browser. 🚀
+Este é um compilador simples feito em Python, com foco educacional. Ele simula as etapas básicas de compilação de código — como análise léxica, parsing e execução — permitindo entender como funciona, por dentro, a interpretação de linguagens de programação. É uma ferramenta útil para estudo de compiladores, construção de interpretadores e experimentação com estruturas de linguagem.
 
 # Screenshot
-Here we have project screenshot :
+Aqui temos a captura de tela do projeto:
 
 ![screenshot](screenshot.png)
