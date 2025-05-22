@@ -5,4 +5,4 @@ Este é um compilador simples feito em Python, com foco educacional. Ele simula 
 # Screenshot
 Aqui temos a captura de tela do projeto:
 
-![screenshot](screenshot.png)
+![screenshot](screensshot.png)
